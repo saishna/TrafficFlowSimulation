@@ -26,7 +26,7 @@ Install requirement: pip install matplotlib
 
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 Acknowledgments
 Inspired by the need for simple traffic simulations for educational purposes.
