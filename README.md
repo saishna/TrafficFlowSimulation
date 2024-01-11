@@ -22,7 +22,8 @@ python TrafficFlowSimulation.py
 Requirements
 Python 3.x
 matplotlib (for plotting)
-Install the required dependencies using: pip install -r requirements.txt
+Install requirement: pip install matplotlib
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
